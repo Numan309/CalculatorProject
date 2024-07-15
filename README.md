@@ -20,3 +20,10 @@ Usage
     Select an arithmetic operation by clicking the corresponding operator button.
     Click the equals (=) button to compute the result.
     Use the clear (C) button to reset the calculator.
+    
+Installation
+
+    Clone the repository (if applicable):
+
+git clone https://github.com/yourusername/calculator.git
+cd calculator
