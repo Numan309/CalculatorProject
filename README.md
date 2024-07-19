@@ -25,5 +25,5 @@ Installation
 
     Clone the repository (if applicable):
 
-git clone https://github.com/yourusername/calculator.git
+git clone (https://github.com/Numan309/CalculatorProject.git)
 cd calculator
